@@ -1,0 +1,4 @@
+add WIRE usb, WIRE type-c, WIRE usb, ACTUATOR button
+sort TYPE -r NAME ID -r
+disp
+exit

@@ -1,0 +1,11 @@
+add WIRE a, WIRE b, WIRE c, DEVICE d, DEVICE e, DEVICE f, DEVICE g, DEVICE h, DEVICE i, SENSOR j
+disp
+sort NAME
+disp
+del 0, 1, 5
+disp
+add WIRE k, SENSOR l, SENSOR m
+disp
+sort ID
+disp
+exit

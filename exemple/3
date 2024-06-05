@@ -1,0 +1,7 @@
+add WIRE a, WIRE b, WIRE c, ACTUATOR e, SENSOR z, ACTUATOR x, WIRE h, WIRE i, DEVICE a, DEVICE k
+disp
+del 5
+disp
+sort TYPE NAME ID
+disp
+exit
